@@ -7,7 +7,7 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>ServletBuscarHoroscopo</servlet-name>
-        <url-pattern>/horoscopo.php</url-pattern>
+        <url-pattern>/horoscopo.xls</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
