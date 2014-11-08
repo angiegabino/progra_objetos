@@ -5,11 +5,12 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Horoscopo</title>
     </head>
     <body>
-        <h1>Holis :3</h1>
-        <form action="horoscopo.xls" method="post"> 
+        <h1>¡¡Bienvenido!!</h1>
+        <form action="horoscopo" method="post"> 
+            <p> Para saber tu horoscopo escribe tu nombre y selecciona un signo</p>
             <p> Escribe tu nombre </p>
             <input type="text" name="nombre"/><br>
             <select name="signo">
@@ -27,7 +28,7 @@
                 <option>Acuario</option>
                
             </select>
-            <input type="submit" value="Apachurrame!!" />
+            <input type="submit" value="Enviar" />
         </form>
     </body>
 </html>
