@@ -3,7 +3,7 @@
     <display-name>maven-mvc</display-name>
     <servlet>
         <servlet-name>ServletHoroscopo</servlet-name>
-        <servlet-class>ie.proyecto1.controller.ServletHoroscopo</servlet-class>
+        <servlet-class>com.gabino.controller.ServletHoroscopo</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>ServletHoroscopo</servlet-name>

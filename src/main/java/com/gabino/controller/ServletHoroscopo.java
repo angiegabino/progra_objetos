@@ -1,5 +1,5 @@
 
-package ie.proyecto1.controller;
+package com.gabino.controller;
 
 import java.io.IOException;
 import java.io.PrintWriter;
