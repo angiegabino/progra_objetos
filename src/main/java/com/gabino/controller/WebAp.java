@@ -21,7 +21,7 @@ public class WebAp extends AbstractAnnotationConfigDispatcherServletInitializer 
     @Override
         protected String[] getServletMappings() {
         System.out.println("Caragando configuracion de cservicios!!");
-        return new String[]{"/Servicios/*"};
+        return new String[]{"/servicios/*"};
         }
 
 }
